@@ -43617,13 +43617,13 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 .u-footer .u-sheet-1 {
-  min-height: 180px;
+  min-height: 239px;
 }
 
 .u-footer .u-image-1 {
   width: 163px;
   height: 160px;
-  margin: 40px auto 60px;
+  margin: 40px auto 39px;
 }
 
 .u-footer .u-logo-image-1 {
@@ -43640,13 +43640,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
     min-height: 200px;
-  }
-
-  .u-footer .u-image-1 {
-    width: 80px;
-    height: 80px;
-    margin-top: 60px;
-    margin-left: -30px;
   }
 }
 
